@@ -15,6 +15,7 @@ export default class ButtonBar extends Component {
       },
       button: {
         backgroundColor: '#777',
+        padding: 15
       },
       wrapper: {
         paddingLeft: 10,
